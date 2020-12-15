@@ -31,4 +31,6 @@ alias rm='rm -i'
 alias cp='cp -i'
 alias mv='mv -i'
 
+alias ls='tree -L 1 -C -v'
+
 alias deno='/home/min/.deno/bin/deno'
