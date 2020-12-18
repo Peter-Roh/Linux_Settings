@@ -24,7 +24,7 @@ alias vim='nvim'
 
 # git command
 alias gst='git status'
-alias gl='git log --pretty=format:"%h - %an, %ar : %s"'
+alias gl='git log --pretty=format:"%h - %an, %ar : %s" | lolcat'
 
 # confirm before overwriting something
 alias rm='rm -i'
